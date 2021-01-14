@@ -1,0 +1,73 @@
+header{
+    background: #FFFBF0;
+}
+#logo{
+    width: 50%;
+}
+.coustom-nav ul li a{
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+}
+.first-baner-img{
+    width: 100%;
+}
+.button-baner-img {
+    width: 25px;
+    margin-right: 5px;
+}
+.my-font{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.baner-font{
+    font-size: 1.5em;
+    font-weight: 900;
+}
+.title-line{
+    font-size: 2.5em;
+}
+.orang{
+    color: #FABE4C;
+}
+.chikna-font{
+    font-weight: 500;
+}
+.mota-font{
+    font-weight: 800;
+}
+.size{
+    font-size: 1.5rem;
+}
+.blue{
+    color: #363958;
+}
+.pic-bg{
+    height: 300px;
+    background-color: #F1F1F1;
+    border-radius: 30px;
+}
+.pic-bg > img{
+    height: 100%;
+    object-fit:contain;
+    
+}
+.coustom-card{
+    border: none;
+    border-radius: 20px;
+}
+.card-footer{
+    background: white;
+    border: 0;
+    margin: px;
+}
+button{
+    border: none;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+    background-color: #a4bc46;
+}
+.col-img{
+    width: 50%;
+}
